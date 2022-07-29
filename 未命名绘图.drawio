@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T16:07:04.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UN0ZcJTqr5jqeJwUDVMV" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T16:09:17.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="d-k-RyP6l6FvGpW0A-2n" version="20.2.2" type="github">
   <diagram id="EkfMXQTPPP1aql3WqCzR" name="第 1 页">
-    <mxGraphModel dx="1810" dy="2851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1029" dy="2443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -911,6 +911,42 @@
         </mxCell>
         <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-197" value="&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;低&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;收&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;入&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;人&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;群&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;医&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;疗&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;保&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;障&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;系&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;统&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="-410" y="-1165" width="40" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-200" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#333333;fillColor=#B3B3B3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630.1" y="-915" as="sourcePoint" />
+            <mxPoint x="-630.1" y="-930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-201" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#333333;fillColor=#B3B3B3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-570.1" y="-915" as="sourcePoint" />
+            <mxPoint x="-570.1" y="-930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-202" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#333333;fillColor=#B3B3B3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-510.13" y="-915.0000000000002" as="sourcePoint" />
+            <mxPoint x="-510.13" y="-930.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-203" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#333333;fillColor=#B3B3B3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-450.26" y="-915.0000000000002" as="sourcePoint" />
+            <mxPoint x="-450.26" y="-930.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-204" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#333333;fillColor=#B3B3B3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-390.13" y="-915.0000000000002" as="sourcePoint" />
+            <mxPoint x="-390.13" y="-930.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-206" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;strokeColor=#333333;fillColor=#B3B3B3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="-914.9999999999998" as="sourcePoint" />
+            <mxPoint x="-390" y="-915" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
