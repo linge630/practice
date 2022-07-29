@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T14:08:39.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Zph75KkHfP89x0v5eD9z" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T15:07:35.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="M_lW7JraT-7CFZJCLjil" version="20.2.2" type="github">
   <diagram id="EkfMXQTPPP1aql3WqCzR" name="第 1 页">
-    <mxGraphModel dx="1303" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1456" dy="1497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FTu80h2OptPlrhomaPlD-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.817;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#FFFFFF;fontSize=16;endArrow=none;endFill=0;strokeWidth=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.817;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#FFFFFF;fontSize=16;endArrow=none;endFill=0;strokeWidth=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-20.000000000000227" y="654.0000000000002" as="targetPoint" />
             <mxPoint x="-164.57000000000016" y="653.3600000000001" as="sourcePoint" />
@@ -15,16 +15,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-93" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.1,1,0,0,0],[0.2,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.3,1,0,0,0],[0.33,1,0,0,0],[0.4,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.6,1,0,0,0],[0.67,1,0,0,0],[0.7,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.8,1,0,0,0],[0.9,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-93" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.1,1,0,0,0],[0.2,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.3,1,0,0,0],[0.33,1,0,0,0],[0.4,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.6,1,0,0,0],[0.67,1,0,0,0],[0.7,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.8,1,0,0,0],[0.9,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="-810" y="525" width="790" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-49" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-49" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-810" y="377" width="790" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-810" y="20" width="789" height="128.5" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=blockThin;endFill=1;strokeWidth=1;" edge="1" parent="1" source="DGDh14NJLm0COKoOLR8l-1" target="DGDh14NJLm0COKoOLR8l-10">
+        <mxCell id="FTu80h2OptPlrhomaPlD-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=blockThin;endFill=1;strokeWidth=1;" parent="1" source="DGDh14NJLm0COKoOLR8l-1" target="DGDh14NJLm0COKoOLR8l-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DGDh14NJLm0COKoOLR8l-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" parent="1" vertex="1">
@@ -192,290 +192,500 @@
         <mxCell id="DGDh14NJLm0COKoOLR8l-79" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;精细化、动态化、智能化&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;多尺度、多维度、多粒度&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=16;strokeWidth=1;horizontal=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-785" y="-1115" width="665" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-2" value="共同富裕" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-2" value="共同富裕" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-670" y="36.25" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-9" value="全民性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-9" value="全民性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-800" y="36.25" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-11" value="全民健康" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-11" value="全民健康" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="34.25" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-12" value="" style="endArrow=blockThin;html=1;rounded=0;fontSize=24;endFill=1;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-12" value="" style="endArrow=blockThin;html=1;rounded=0;fontSize=24;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-532" y="50.25" as="sourcePoint" />
             <mxPoint x="-292" y="51.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-14" value="" style="endArrow=blockThin;html=1;rounded=0;fontSize=24;endFill=1;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-14" value="" style="endArrow=blockThin;html=1;rounded=0;fontSize=24;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-294" y="58.22" as="sourcePoint" />
             <mxPoint x="-532" y="57.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-15" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;“&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;全民&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;健康大脑&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;”&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体;&quot;&gt;面向共同富裕的全民健康智慧管理系统&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-15" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;“&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;全民&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;健康大脑&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;”&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体;&quot;&gt;面向共同富裕的全民健康智慧管理系统&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-810" y="305" width="790" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-16" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;数字化改革&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-16" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;数字化改革&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-810" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-19" value="全面性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-19" value="全面性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-800" y="62.25" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;全局性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;全局性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-800" y="88.25" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;......&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;......&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-800" y="113.25" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;公共卫生学科&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;公共卫生学科&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-150" y="34.25" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;城市科学&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;城市科学&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-150" y="60.25" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;多维健康观&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;多维健康观&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-150" y="86.25" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;......&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;......&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-150" y="111.25" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FTu80h2OptPlrhomaPlD-11">
+        <mxCell id="FTu80h2OptPlrhomaPlD-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FTu80h2OptPlrhomaPlD-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160" y="46.25" as="sourcePoint" />
             <mxPoint x="-150" y="45.56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160" y="71.78999999999986" as="sourcePoint" />
             <mxPoint x="-149.76" y="71.69999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160.24" y="97.78999999999985" as="sourcePoint" />
             <mxPoint x="-150" y="97.69999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160" y="122.78999999999985" as="sourcePoint" />
             <mxPoint x="-149.76" y="122.69999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-30" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-30" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-680.48" y="47.720000000000084" as="sourcePoint" />
             <mxPoint x="-670.24" y="47.62999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-680.24" y="73.85999999999996" as="sourcePoint" />
             <mxPoint x="-670" y="73.77000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-680.48" y="99.86000000000018" as="sourcePoint" />
             <mxPoint x="-670.24" y="99.77000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-680.24" y="124.86000000000018" as="sourcePoint" />
             <mxPoint x="-670" y="124.77000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-35" value="必然结果和主要标志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-35" value="必然结果和主要标志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-493" y="53.25" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-37" value="基本前提和基础保障" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-37" value="基本前提和基础保障" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-493" y="26.25" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;endWidth=9.864253393665157;endSize=3.3909502262443434;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;endWidth=9.864253393665157;endSize=3.3909502262443434;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-550" y="97.55000000000001" as="sourcePoint" />
             <mxPoint x="-530" y="97.55000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;endWidth=9.864253393665157;endSize=3.3909502262443434;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;endWidth=9.864253393665157;endSize=3.3909502262443434;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry x="-810" y="61.5" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-279" y="97.55000000000001" as="sourcePoint" />
             <mxPoint x="-299" y="97.54999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-47" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;全人群全生命周期&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;全社会公平&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;全域全场景&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#990000;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-47" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;全人群全生命周期&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;全社会公平&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;全域全场景&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#990000;" parent="1" vertex="1">
           <mxGeometry x="-525" y="83.25" width="220" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=19.569892473118276;endSize=6.705376344086021;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=19.569892473118276;endSize=6.705376344086021;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-413" y="263" as="sourcePoint" />
             <mxPoint x="-413" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-55" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;平&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;台&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-55" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;平&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;台&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-800" y="390" width="50" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-57" value="&lt;h3 style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin-top: 5pt; margin-bottom: 5pt; text-align: justify; font-family: 等线; font-size: 13.5pt;&quot;&gt;&lt;b style=&quot;font-family: 宋体;&quot;&gt;未来社区（乡村）健康管理平台&lt;/b&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-57" value="&lt;h3 style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin-top: 5pt; margin-bottom: 5pt; text-align: justify; font-family: 等线; font-size: 13.5pt;&quot;&gt;&lt;b style=&quot;font-family: 宋体;&quot;&gt;未来社区（乡村）健康管理平台&lt;/b&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-450" y="454" width="420" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=38.63905325443787;endSize=9.776923076923078;width=26.923076923076923;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=38.63905325443787;endSize=9.776923076923078;width=26.923076923076923;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-584" y="380" as="sourcePoint" />
             <mxPoint x="-584" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-60" value="面&lt;br&gt;向&lt;br&gt;“物”" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" vertex="1" connectable="0" parent="FTu80h2OptPlrhomaPlD-58">
+        <mxCell id="FTu80h2OptPlrhomaPlD-60" value="面&lt;br&gt;向&lt;br&gt;“物”" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="FTu80h2OptPlrhomaPlD-58" vertex="1" connectable="0">
           <mxGeometry x="-0.3573" y="3" relative="1" as="geometry">
             <mxPoint x="-4" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=38.63905325443787;endSize=9.776923076923078;width=26.923076923076923;exitX=0.397;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=38.63905325443787;endSize=9.776923076923078;width=26.923076923076923;exitX=0.397;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-209.09999999999994" y="380.0000000000002" as="sourcePoint" />
             <mxPoint x="-208.79" y="450.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-63" value="面&lt;br&gt;向&lt;br&gt;“人”" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" vertex="1" connectable="0" parent="FTu80h2OptPlrhomaPlD-62">
+        <mxCell id="FTu80h2OptPlrhomaPlD-63" value="面&lt;br&gt;向&lt;br&gt;“人”" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="FTu80h2OptPlrhomaPlD-62" vertex="1" connectable="0">
           <mxGeometry x="-0.3573" y="3" relative="1" as="geometry">
             <mxPoint x="-4" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=38.63905325443787;endSize=9.776923076923078;width=26.923076923076923;entryX=0.666;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=38.63905325443787;endSize=9.776923076923078;width=26.923076923076923;entryX=0.666;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-75.5" y="380.08" as="sourcePoint" />
             <mxPoint x="-74.49999999999991" y="537.495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-65" value="面&lt;br&gt;向&lt;br&gt;共&lt;br&gt;同&lt;br&gt;富&lt;br&gt;裕" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=default;" vertex="1" connectable="0" parent="FTu80h2OptPlrhomaPlD-64">
+        <mxCell id="FTu80h2OptPlrhomaPlD-65" value="面&lt;br&gt;向&lt;br&gt;共&lt;br&gt;同&lt;br&gt;富&lt;br&gt;裕" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=default;" parent="FTu80h2OptPlrhomaPlD-64" vertex="1" connectable="0">
           <mxGeometry x="-0.3573" y="3" relative="1" as="geometry">
             <mxPoint x="-3" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-66" value="&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; text-align: justify; font-family: 等线; font-size: 13.5pt;&quot;&gt;&lt;b&gt;“健康+”城市信息模型（CIM）平台&lt;/b&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-66" value="&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; text-align: justify; font-family: 等线; font-size: 13.5pt;&quot;&gt;&lt;b&gt;“健康+”城市信息模型（CIM）平台&lt;/b&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-745" y="454" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-71" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;功&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;能&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-71" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;功&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;能&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-800" y="537.5" width="50" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-78" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;健康影响评估系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-78" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;健康影响评估系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-745" y="540" width="290" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-79" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;&quot;&gt;环境监测系统&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-79" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;&quot;&gt;环境监测系统&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-745" y="577.5" width="290" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-80" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;医疗设施布局系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-80" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;医疗设施布局系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-745" y="617.5" width="290" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-82" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;场&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;景&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-82" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;场&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;景&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-800" y="679" width="50" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-83" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;个人健康档案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-83" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;个人健康档案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-449" y="540" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-84" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;&quot;&gt;动态健康评估&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-84" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;&quot;&gt;动态健康评估&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-449" y="577.5" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-85" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;健康服务闭环&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-85" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;健康服务闭环&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-449" y="617.5" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-88" value="&lt;div style=&quot;&quot;&gt;智能应急救治&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-88" value="&lt;div style=&quot;&quot;&gt;智能应急救治&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-347" y="540" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-89" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;健康资源供给布局&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-89" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;健康资源供给布局&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-347" y="577.5" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-90" value="&lt;div style=&quot;&quot;&gt;群体健康风险预测&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-90" value="&lt;div style=&quot;&quot;&gt;群体健康风险预测&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-347" y="617.5" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-94" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-94" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-810" y="666.5" width="616" height="123.5" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-96" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;统筹规建管全过程健康影响评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-96" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;统筹规建管全过程健康影响评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-745" y="679" width="290" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-97" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;健康影响风险识别与消除&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-97" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;健康影响风险识别与消除&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-745" y="716.5" width="290" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-98" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;15&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;全民健康服务供给质量提升&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-98" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;15&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;全民健康服务供给质量提升&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-745" y="756.5" width="290" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-111" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 宋体; text-align: justify; font-size: 16px;&quot;&gt;社会心理服务系统&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-111" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 宋体; text-align: justify; font-size: 16px;&quot;&gt;社会心理服务系统&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-188" y="607" width="160" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-114" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;健康驿站&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-114" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;健康驿站&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-449" y="679" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-116" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;云药房&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-116" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;云药房&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-449" y="716.5" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-117" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;自助线上诊室&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-117" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;自助线上诊室&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-449" y="756.5" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-121" value="&lt;div style=&quot;&quot;&gt;线上医疗服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-121" value="&lt;div style=&quot;&quot;&gt;线上医疗服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-347" y="679" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-122" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;家庭医生签约服务&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-122" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;家庭医生签约服务&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-347" y="716.5" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-123" value="&lt;div style=&quot;&quot;&gt;穿戴式健康监测设备&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-123" value="&lt;div style=&quot;&quot;&gt;穿戴式健康监测设备&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-347" y="756.5" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-125" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-125" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-190" y="647" width="169" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-106" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 宋体; text-align: justify; font-size: 16px;&quot;&gt;校园健康促进系统&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-106" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 宋体; text-align: justify; font-size: 16px;&quot;&gt;校园健康促进系统&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-188" y="578" width="160" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-126" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 宋体; text-align: justify;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;智慧健康管理子系统&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-126" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 宋体; text-align: justify;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;智慧健康管理子系统&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-188" y="540" width="158" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-130" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;疫苗接种管理系统&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-130" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;疫苗接种管理系统&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-187.5" y="636" width="160" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-131" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 13px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 13px; text-align: start;&quot;&gt;职业人群健康管理系统&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-131" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 13px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 等线; font-size: 13px; text-align: start;&quot;&gt;职业人群健康管理系统&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-187.5" y="664.5" width="160" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-132" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;特殊群体健康管理平台&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-132" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;特殊群体健康管理平台&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-187.5" y="693.5" width="160" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-133" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 等线; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;慢性病登记追踪管理系统&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-133" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 等线; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;慢性病登记追踪管理系统&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-187.5" y="722" width="160" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-134" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;传染病和公共突发卫生事件监测预警系统&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-134" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;传染病和公共突发卫生事件监测预警系统&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-187.5" y="750" width="160" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-135" value="基础&lt;br style=&quot;font-size: 18px;&quot;&gt;设施" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-135" value="基础&lt;br style=&quot;font-size: 18px;&quot;&gt;设施" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-810" y="-100" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-136" value="数据&lt;br&gt;要素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-136" value="数据&lt;br&gt;要素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-810" y="-170" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-137" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;感知层&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; text-align: justify; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;卫星遥感、环境感知、视频感知、智能设施、智能建筑、资源感知、环境感知......&lt;/span&gt;&lt;b style=&quot;font-family: 等线;&quot;&gt;&lt;/b&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-137" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;感知层&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; text-align: justify; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;卫星遥感、环境感知、视频感知、智能设施、智能建筑、资源感知、环境感知......&lt;/span&gt;&lt;b style=&quot;font-family: 等线;&quot;&gt;&lt;/b&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="-110" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-138" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;等线&quot; style=&quot;font-size: 14px;&quot;&gt;多源数据、深度学习、云计算、边缘计算、&lt;/font&gt;&lt;font face=&quot;等线&quot; style=&quot;font-size: 14px;&quot;&gt;GIS......&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-138" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;等线&quot; style=&quot;font-size: 14px;&quot;&gt;多源数据、深度学习、云计算、边缘计算、&lt;/font&gt;&lt;font face=&quot;等线&quot; style=&quot;font-size: 14px;&quot;&gt;GIS......&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-740" y="-160" width="580" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-139" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;网络层&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; text-align: justify; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;物联网、政务网、移动互联网、&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;G、自组织网&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: 等线; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-139" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;网络层&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; text-align: justify; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;物联网、政务网、移动互联网、&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;G、自组织网&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: 等线; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="-740" y="-110" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-143" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;数据层&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px; text-align: center;&quot;&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt;&quot;&gt;&lt;font style=&quot;background-color: initial; font-weight: normal; font-size: 16px;&quot; face=&quot;等线&quot;&gt;多源数据、深度学习、云计算、边缘计算、&lt;/font&gt;&lt;font style=&quot;background-color: initial; font-weight: normal; font-size: 16px;&quot; face=&quot;等线&quot;&gt;GIS&lt;/font&gt;&lt;span style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-143" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;数据层&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px; text-align: center;&quot;&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt;&quot;&gt;&lt;font style=&quot;background-color: initial; font-weight: normal; font-size: 16px;&quot; face=&quot;等线&quot;&gt;多源数据、深度学习、云计算、边缘计算、&lt;/font&gt;&lt;font style=&quot;background-color: initial; font-weight: normal; font-size: 16px;&quot; face=&quot;等线&quot;&gt;GIS&lt;/font&gt;&lt;span style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-670" y="180" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-146" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;网络层&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px; text-align: center;&quot;&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;物联网、政务网、移动互联网、&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;G、自组织网&lt;/span&gt;&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-146" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;网络层&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px; text-align: center;&quot;&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;物联网、政务网、移动互联网、&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;G、自组织网&lt;/span&gt;&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-240" y="180" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-147" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;感知层&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;环境感知、视频感知、智能设施、智能建筑、资源感知&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-147" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;感知层&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;环境感知、视频感知、智能设施、智能建筑、资源感知&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-455" y="180" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FTu80h2OptPlrhomaPlD-148" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=19.569892473118276;endSize=6.705376344086021;" edge="1" parent="1">
+        <mxCell id="FTu80h2OptPlrhomaPlD-148" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=19.569892473118276;endSize=6.705376344086021;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-413.19" y="138" as="sourcePoint" />
             <mxPoint x="-413.19" y="178" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.1,1,0,0,0],[0.2,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.3,1,0,0,0],[0.33,1,0,0,0],[0.4,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.6,1,0,0,0],[0.67,1,0,0,0],[0.7,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[0.8,1,0,0,0],[0.9,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="20" y="535" width="790" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="387" width="790" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="789" height="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-5" value="共同富裕" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="46.25" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-6" value="全民性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="46.25" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-7" value="全民健康" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="44.25" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-8" value="" style="endArrow=blockThin;html=1;rounded=0;fontSize=24;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="298" y="60.25" as="sourcePoint" />
+            <mxPoint x="538" y="61.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-9" value="" style="endArrow=blockThin;html=1;rounded=0;fontSize=24;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="536" y="68.2199999999998" as="sourcePoint" />
+            <mxPoint x="298" y="67.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-10" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;“&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;全民&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;健康大脑&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;”&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify; font-family: 宋体;&quot;&gt;面向共同富裕的全民健康智慧管理系统&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="315" width="790" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-11" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;数字化改革&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-12" value="全面性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="72.25" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;全局性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="98.25" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;......&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="123.25" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;公共卫生学科&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="680" y="44.25" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;城市科学&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="680" y="70.25" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;多维健康观&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="680" y="96.25" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;......&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="680" y="121.25" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LZ-4aMQJZN_Vc4f9Kdjp-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="56.25" as="sourcePoint" />
+            <mxPoint x="679.9999999999995" y="55.559999999999945" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-20" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669.9999999999995" y="81.78999999999996" as="sourcePoint" />
+            <mxPoint x="680.2399999999998" y="81.69999999999982" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-21" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669.7600000000002" y="107.78999999999996" as="sourcePoint" />
+            <mxPoint x="679.9999999999995" y="107.69999999999982" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-22" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669.9999999999995" y="132.78999999999996" as="sourcePoint" />
+            <mxPoint x="680.2399999999998" y="132.69999999999982" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-23" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149.51999999999998" y="57.720000000000255" as="sourcePoint" />
+            <mxPoint x="159.76000000000022" y="57.63000000000011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-24" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149.76000000000022" y="83.86000000000013" as="sourcePoint" />
+            <mxPoint x="160" y="83.76999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149.51999999999998" y="109.86000000000013" as="sourcePoint" />
+            <mxPoint x="159.76000000000022" y="109.76999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=0.998;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149.76000000000022" y="134.86000000000013" as="sourcePoint" />
+            <mxPoint x="160" y="134.76999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-27" value="必然结果和主要标志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="337" y="63.25" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-28" value="基本前提和基础保障" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="337" y="36.25" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;endWidth=9.864253393665157;endSize=3.3909502262443434;strokeWidth=1;fillColor=#B3B3B3;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="107.55000000000018" as="sourcePoint" />
+            <mxPoint x="300" y="107.55000000000018" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;endWidth=9.864253393665157;endSize=3.3909502262443434;strokeWidth=1;fillColor=#B3B3B3;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry x="-810" y="61.5" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="551" y="107.55000000000018" as="sourcePoint" />
+            <mxPoint x="531" y="107.55000000000018" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-31" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;全人群全生命周期&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;全社会公平&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;全域全场景&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="305" y="93.25" width="220" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=19.569892473118276;endSize=6.705376344086021;fillColor=#B3B3B3;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="417" y="273" as="sourcePoint" />
+            <mxPoint x="417" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-33" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;平&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;台&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="50" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-34" value="&lt;h3 style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin-top: 5pt; margin-bottom: 5pt; text-align: justify; font-family: 等线; font-size: 13.5pt;&quot;&gt;&lt;b style=&quot;font-family: 宋体;&quot;&gt;未来社区（乡村）健康管理平台&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="420" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-41" value="&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; text-align: justify; font-family: 等线; font-size: 13.5pt;&quot;&gt;&lt;b&gt;“健康+”城市信息模型（CIM）平台&lt;/b&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="85" y="440" width="290" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-42" value="&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;功&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;能&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="30" y="547.5" width="50" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-43" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;健康影响评估系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="85" y="550" width="290" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-44" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;&quot;&gt;环境监测系统&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="85" y="587.5" width="290" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;医疗设施布局系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="85" y="627.5" width="290" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-47" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;个人健康档案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="381" y="550" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-48" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;&quot;&gt;动态健康评估&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="381" y="587.5" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-49" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;健康服务闭环&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="381" y="627.5" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-50" value="&lt;div style=&quot;&quot;&gt;智能应急救治&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="483" y="550" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-51" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;健康资源供给布局&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="483" y="587.5" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-52" value="&lt;div style=&quot;&quot;&gt;群体健康风险预测&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="483" y="627.5" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-72" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;数据层&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px; text-align: center;&quot;&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt;&quot;&gt;&lt;font style=&quot;background-color: initial; font-weight: normal; font-size: 16px;&quot; face=&quot;等线&quot;&gt;多源数据、深度学习、云计算、边缘计算、&lt;/font&gt;&lt;font style=&quot;background-color: initial; font-weight: normal; font-size: 16px;&quot; face=&quot;等线&quot;&gt;GIS&lt;/font&gt;&lt;span style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-73" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;网络层&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px; text-align: center;&quot;&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;物联网、政务网、移动互联网、&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;G、自组织网&lt;/span&gt;&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="590" y="190" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-74" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;感知层&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;h3 style=&quot;margin-top: 5pt; margin-bottom: 5pt; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;环境感知、视频感知、智能设施、智能建筑、资源感知&lt;span style=&quot;font-family: 等线; background-color: initial;&quot;&gt;......&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="375" y="190" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=19.569892473118276;endSize=6.705376344086021;fillColor=#B3B3B3;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="416.80999999999995" y="148" as="sourcePoint" />
+            <mxPoint x="416.80999999999995" y="188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-77" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=19.569892473118276;endSize=6.705376344086021;fillColor=#B3B3B3;strokeColor=none;exitX=0.265;exitY=0.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LZ-4aMQJZN_Vc4f9Kdjp-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.37" y="400" as="sourcePoint" />
+            <mxPoint x="229.37" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-78" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=19.569892473118276;endSize=6.705376344086021;fillColor=#B3B3B3;strokeColor=none;exitX=0.265;exitY=0.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="504.4900000000001" y="390" as="sourcePoint" />
+            <mxPoint x="504.5099999999999" y="440.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-80" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;strokeWidth=1;endWidth=19.569892473118276;endSize=6.705376344086021;fillColor=#B3B3B3;strokeColor=none;exitX=0.892;exitY=0.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LZ-4aMQJZN_Vc4f9Kdjp-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="725.0000000000002" y="420" as="sourcePoint" />
+            <mxPoint x="725.0199999999998" y="470.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-81" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 宋体; text-align: justify;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;智慧健康管理子系统&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="640" y="470" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LZ-4aMQJZN_Vc4f9Kdjp-82" value="全空间环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="175" y="390" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
