@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T04:20:49.504Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gXyeHQ-QEOANP77ob-Yl" version="24.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-26T09:47:46.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="oszpXSz5PrAm6ot86eEJ" version="24.6.2" type="github" pages="2">
   <diagram name="第 1 页" id="Vp9YWV9xP9e97uwllq13">
-    <mxGraphModel dx="903" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1332,7 +1332,7 @@
         <mxCell id="WmwbUit8XmT7309xp_ai-361" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;公共空间&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1005" y="4140" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WmwbUit8XmT7309xp_ai-362" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;公共服务设施&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WmwbUit8XmT7309xp_ai-362" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设施配套&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1005" y="4200" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WmwbUit8XmT7309xp_ai-363" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;xxx&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;xxxxx&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;xxxxxx&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -1341,13 +1341,13 @@
         <mxCell id="WmwbUit8XmT7309xp_ai-366" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;交通出行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1005" y="4260" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WmwbUit8XmT7309xp_ai-367" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;社区&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WmwbUit8XmT7309xp_ai-367" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;居住社区&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1005" y="4320" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WmwbUit8XmT7309xp_ai-368" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;自然&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WmwbUit8XmT7309xp_ai-368" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;环境改善&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1005" y="4380" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WmwbUit8XmT7309xp_ai-369" value="儿童参与" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WmwbUit8XmT7309xp_ai-369" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;绿地系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1005" y="4440" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WmwbUit8XmT7309xp_ai-370" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmwbUit8XmT7309xp_ai-358" target="WmwbUit8XmT7309xp_ai-361">
